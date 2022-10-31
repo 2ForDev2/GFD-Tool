@@ -1,2 +1,5 @@
-# GFD-Tool
-💝 Here is my griefing tool (GFD Tool) that i coded with love 💝
+💝 | Requirements for GFD Tool | 💝
+1.Python
+2.And No More!
+
+🛡️ Don't Skid This Tool LOL 🛡️
